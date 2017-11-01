@@ -1,0 +1,5 @@
+bin\Release\PC_VolumeControl.dll
+bin\Release\PC_VolumeControl.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PC_VolumeControl.dll
+obj\Release\PC_VolumeControl.pdb

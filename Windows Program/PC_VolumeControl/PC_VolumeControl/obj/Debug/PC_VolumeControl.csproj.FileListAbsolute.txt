@@ -1,0 +1,5 @@
+C:\Users\zache\Documents\PC_VolumeControl\PC_VolumeControl\bin\Debug\PC_VolumeControl.dll
+C:\Users\zache\Documents\PC_VolumeControl\PC_VolumeControl\bin\Debug\PC_VolumeControl.pdb
+C:\Users\zache\Documents\PC_VolumeControl\PC_VolumeControl\obj\Debug\PC_VolumeControl.csprojResolveAssemblyReference.cache
+C:\Users\zache\Documents\PC_VolumeControl\PC_VolumeControl\obj\Debug\PC_VolumeControl.dll
+C:\Users\zache\Documents\PC_VolumeControl\PC_VolumeControl\obj\Debug\PC_VolumeControl.pdb
